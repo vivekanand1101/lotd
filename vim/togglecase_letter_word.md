@@ -1,2 +1,2 @@
-current character: ```~```
-current word: ```g~iw```
+current character: ```~```  
+current word: ```g~iw```  
