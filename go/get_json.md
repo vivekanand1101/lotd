@@ -61,6 +61,6 @@ func main() {
 
 ```
 
-Point to be noted is, the first character should be capital of Github{} so that
+Point to be noted is, the first character should be capital of Github{} elements so that
 it can be printed
 
