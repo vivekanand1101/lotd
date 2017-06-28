@@ -5,3 +5,4 @@
 * Soft links can be pointing to a directory.  
 * ```ln -s <new file> <original file or dir>``` will create a soft link.  
 * ```ln <new file> <original file>``` will create the hard link.  
+* [This pic explains it](https://i.stack.imgur.com/f7Ijz.jpg)
