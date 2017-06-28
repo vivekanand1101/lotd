@@ -5,3 +5,4 @@ There are three types of environment variables:
 2. User - Env vars present in ```.zshrc``` or ```.zshprofile```.
         ```.zshprofile``` for remote ones
 3. System Wide - For all the users. File is ```/etc/zshenv```
+4. ```printenv``` prints all the env vars.
