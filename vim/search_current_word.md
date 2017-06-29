@@ -1,1 +1,1 @@
-* Command is: /<C-r><C-w>
+* Command is: ```/<C-r><C-w>```
